@@ -1,5 +1,5 @@
 # Kittygram
- Project of simple recreation of instagram that is using The Cat Api to create posts!
+ Project of very simple recreation of instagram that is using The Cat Api to create posts!
  # Techonologies used
  - React.js
  - Next.js
